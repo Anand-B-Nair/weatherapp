@@ -101,6 +101,13 @@ body{
     margin-top: 0;
     border-radius: 0%;
     }
+.search input{
+    max-width: 360px;
+    min-width: 220px;
+}
+.search button{
+    min-width: 60px;
+}
 .details{
     padding: 0;
     margin-left: -22px;
